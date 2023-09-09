@@ -7,15 +7,21 @@
 }
 
 body{
-    position: relative;
+    max-width: 1440px;
+    max-height: 1080px;
+    margin: 0px auto;
 }
 
-h1{
-    position: absolute;
-    width: 133px;
-    height: 25px;
-    top: 40px;
-    left: 77px;
+header, main, footer{
+    max-width: 1440px;
+    overflow: hidden;
+    margin-left: min(77px, 5%);
+}
+
+header > h1{
+    max-width: 133px;
+    max-height: 25px;
+    margin: 40px 0px;
 
     font-family: Inconsolata;
     font-size: 24px;
@@ -24,48 +30,56 @@ h1{
     letter-spacing: -0.08em;
 }
 
-img{
-    width: 539.2236938476562px;
-    height: 447.4263916015625px;
-    position: absolute;
-    top: 265px;
-    left: 77px;
+main{
+    display: flex;
+    flex-flow: row  wrap;
+    gap: 50px;
+}
+
+main img{
+    max-width: 539.2236938476562px;
+    width: 45%;
+    max-height: 447.4263916015625px;
+    height: 100%;
+}
+
+main div{
+    max-width: 586px;
+    width: 45%;
+    min-width: 300px;
 }
 
 h2{
-    width: 586px;
-    height: 190px;
-    position: absolute;
-    top: 265px;
-    left: 735px;
+    max-width: 586px;
+    max-height: 190px;
 
     font-family: 'Space Mono';
-    font-size: 64px;
+    font-size: max(min(4vw, 64px), 24px);
     font-weight: 700;
-    line-height: 95px;
     letter-spacing: -0.035em;
+
+    margin-bottom: 20px;
 }
 
 p.main{
-    width: 381px;
-    height: 108px;
-    position: absolute;
-    top: 491px;
-    left: 736px;
+    max-width: 381px;
+    max-height: 108px;
 
     font-family: 'Space Mono';
-    font-size: 24px;
+    font-size: max(min(1.5vw, 24px), 12px);
     font-weight: 400;
     line-height: 36px;
     letter-spacing: -0.035em;
     text-align: left;
+    color: #4F4F4F;
+
+    margin-bottom: 40px;
 
 }
 
 button{
     width: 216px;
     height: 68px;
-    position: absolute;
     top: 663px;
     left: 740px;
     background-color: #333333;
@@ -85,7 +99,6 @@ button a{
 p.footer{
     width: 287px;
     height: 17px;
-    position: absolute;
     top: 1039px;
     left: 577px;
 
