@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Bellota+Text:wght@300&family=Inconsolata:wght@700&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header > h1{
+    font-family: 'Inconsolata', monospace;
+    width: 133px;
+    height: 25px;
+    position: relative;
+    top: 40px;
+    left: 77px;
+
+    font-family: Inconsolata;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: -0.08em;
+    text-align: left;
+}
+main{
+    display: flex;
+    flex-flow: row wrap;
+}
