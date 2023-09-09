@@ -1,15 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Bellota+Text:wght@300&family=Inconsolata:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bellota+Text:wght@300&family=Inconsolata:wght@700&family=Space+Mono:wght@700&display=swap');
 
 *{
     margin: 0px;
     padding: 0px;
 }
 
-header > h1{
-    font-family: 'Inconsolata', monospace;
+body{
+    position: relative;
+}
+
+h1{
+    position: absolute;
     width: 133px;
     height: 25px;
-    position: relative;
     top: 40px;
     left: 77px;
 
@@ -18,9 +22,82 @@ header > h1{
     font-weight: 700;
     line-height: 25px;
     letter-spacing: -0.08em;
-    text-align: left;
 }
-main{
-    display: flex;
-    flex-flow: row wrap;
+
+img{
+    width: 539.2236938476562px;
+    height: 447.4263916015625px;
+    position: absolute;
+    top: 265px;
+    left: 77px;
+}
+
+h2{
+    width: 586px;
+    height: 190px;
+    position: absolute;
+    top: 265px;
+    left: 735px;
+
+    font-family: 'Space Mono';
+    font-size: 64px;
+    font-weight: 700;
+    line-height: 95px;
+    letter-spacing: -0.035em;
+}
+
+p.main{
+    width: 381px;
+    height: 108px;
+    position: absolute;
+    top: 491px;
+    left: 736px;
+
+    font-family: 'Space Mono';
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: -0.035em;
+    text-align: left;
+
+}
+
+button{
+    width: 216px;
+    height: 68px;
+    position: absolute;
+    top: 663px;
+    left: 740px;
+    background-color: #333333;
+}
+
+button a{
+    color: #ffffff;
+    font-family: 'Space Mono';
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 21px;
+    letter-spacing: -0.035em;
+    text-align: feft;
+    text-decoration: none;
+}
+
+p.footer{
+    width: 287px;
+    height: 17px;
+    position: absolute;
+    top: 1039px;
+    left: 577px;
+
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 17px;
+    letter-spacing: 0em;
+    text-align: center;
+}
+
+p.footer a{
+    color: #333333;
+    text-decoration: none;
 }
