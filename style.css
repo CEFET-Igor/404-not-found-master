@@ -96,12 +96,12 @@ button a{
     text-decoration: none;
 }
 
+footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
 p.footer{
-    width: 287px;
-    height: 17px;
-    top: 1039px;
-    left: 577px;
-
     font-family: Montserrat;
     font-size: 14px;
     font-weight: 600;
