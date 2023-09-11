@@ -48,7 +48,8 @@ Compartilhar meu progresso e aprendizado com a comunidade.
 ### Resultado:
 Ao longo deste projeto, pude aprimorar minhas habilidades técnicas e ganhar experiência prática na construção de uma página web. Aprendi a importância da responsividade e do design web eficaz.
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![Desktop](https://github.com/CEFET-Igor/Challeng-404-not-found/assets/113212275/313b8d55-fb1e-4535-a5dc-a49552250249)
+![Mobile](https://github.com/CEFET-Igor/Challeng-404-not-found/assets/113212275/4ade529a-fb74-497f-b110-9471d2b17321)
 
 ### Built With
 
@@ -65,6 +66,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact - Contatos
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Linkedin [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorguicampos/)
+- GitHub [![GitHub](https://img.shields.io/github/followers/CEFET-Igor.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/CEFET-Igor)
