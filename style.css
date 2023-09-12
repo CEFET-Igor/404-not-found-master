@@ -33,7 +33,7 @@ main{
     display: flex;
     flex-flow: row  wrap;
     justify-content: space-around;
-    height: 80vh;
+    height: 73vh;
     justify-items: center;
     align-items: center;
 }
@@ -98,7 +98,7 @@ button a{
 footer{
     display: flex;
     justify-content: center;
-    margin-top: 40px;
+    margin: 20px auto;
 }
 
 p.footer{
