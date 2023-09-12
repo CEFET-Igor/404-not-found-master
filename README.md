@@ -44,7 +44,6 @@ Neste projeto, decidi começar minha jornada no desenvolvimento web frontend do 
 
 Aperfeiçoar minhas habilidades em HTML e CSS.
 Aprender a trabalhar com ferramentas mais responsivas e essenciais para a criação de páginas web.
-Compartilhar meu progresso e aprendizado com a comunidade.
 
 <a name="Resultado"></a>
 ### Resultado:
