@@ -37,17 +37,16 @@
 <a name="Overview"></a>
 ## Overview - Índice
 
-Neste projeto, decidi começar minha jornada no desenvolvimento web frontend do zero. Com um conhecimento prévio limitado, aceitei o desafio de criar uma página estática de "Erro 404" e compartilhá-la aqui no GitHub.
+Este projeto marca o início da minha jornada no desenvolvimento web frontend. Com conhecimento prévio limitado, decidi aceitar o desafio proposto pelo Devchallenges.io de criar uma página estática de "Erro 404" e compartilhá-la aqui no GitHub.
 
 <a name="Objetivo"></a>
 ### Objetivo:
 
-Aperfeiçoar minhas habilidades em HTML e CSS.
-Aprender a trabalhar com ferramentas mais responsivas e essenciais para a criação de páginas web.
+- **Aperfeiçoamento em HTML e CSS:** O foco principal foi aprimorar minhas habilidades em HTML e CSS, fundamentais para a construção de interfaces web.
+- **Ferramentas Responsivas:** Aprender a trabalhar com ferramentas mais responsivas, essenciais para criar páginas web que se adaptam a diferentes dispositivos.
 
 <a name="Resultado"></a>
 ### Resultado:
-Ao longo deste projeto, pude aprimorar minhas habilidades técnicas e ganhar experiência prática na construção de uma página web. Aprendi a importância da responsividade e do design web eficaz.
 
 ![Desktop](https://github.com/CEFET-Igor/Challeng-404-not-found/assets/113212275/313b8d55-fb1e-4535-a5dc-a49552250249)
 ![Mobile](https://github.com/CEFET-Igor/Challeng-404-not-found/assets/113212275/4ade529a-fb74-497f-b110-9471d2b17321)
@@ -55,15 +54,11 @@ Ao longo deste projeto, pude aprimorar minhas habilidades técnicas e ganhar exp
 <a name="Built With"></a>
 ### Built With
 
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
 - ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 - ![Css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 <a name="Features"></a>
 ## Features - Características
-
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
 
